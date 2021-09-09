@@ -1,0 +1,36 @@
+
+h1{
+    display: block;
+    background-color:black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    padding: 15px;
+    font-size: 55px;
+    margin: 10px;
+}
+span{
+    color:rgb(0, 255, 255)
+}
+
+h2{
+    background-color: indigo;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+
+}
+
+h3{
+    background-color: lightskyblue;
+    color: indigo;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+    text-decoration-line: underline;
+    padding: 20px;
+    font-size: 25px;
+    margin: 10px;
+    text-align: end;
+}
